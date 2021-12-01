@@ -1,0 +1,1 @@
+cd comments && npm start & cd event-bus && npm start & cd moderation && npm start & cd posts && npm start & cd query && npm start & cd client && npm start
